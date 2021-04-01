@@ -63,7 +63,7 @@ namespace Lab5
                         break;
                 }
             }
-            if (flag == false)
+           // if (flag == false)
             await Rec;
 
         }
